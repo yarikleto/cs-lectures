@@ -1,4 +1,4 @@
-# CS ONLINE
+# CS Lectures
 
 ## MIT Roadmap:
 - [Computer Science and Engineering (Course 6-3)](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
