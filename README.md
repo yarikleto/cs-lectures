@@ -2,7 +2,7 @@
 
 ## MIT Roadmap:
 - [Computer Science and Engineering (Course 6-3)](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
-- 
+
 
 ## Algorithms
 ### Departmental Requirements
@@ -35,5 +35,5 @@
 - [6.802\[J\] Computational Systems Biology: Deep Learning in the Life Sciences](https://www.youtube.com/watch?v=lJzybEXmIj0)
 
 ### Independent Inquiry Subjects
-[6.035 Computer Language Engineering](https://www.youtube.com/playlist?list=PL0300FE43396456C1)
-[6.172 	Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+- [6.035 Computer Language Engineering](https://www.youtube.com/playlist?list=PL0300FE43396456C1)
+- [6.172 	Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
